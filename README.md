@@ -2,7 +2,7 @@
 Week 4 Project of Getting and Cleaning Data
 
 
-This project uses the following files from Smartlab
+This project uses the following files from Smartlab (for more info on the Smartlab data, see included Smartlab_README)
 
 - 'features.txt': List of all features.
 - 'activity_labels.txt': Links the class labels with their activity name.
