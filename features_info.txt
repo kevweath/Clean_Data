@@ -25,7 +25,7 @@ fBodyAccJerk-XYZ
 fBodyGyro-XYZ
 fBodyAccMag
 fBodyAccJerkMag
-fBodyGyroMag
+fBodyGyroMag 
 fBodyGyroJerkMag
 
 The set of variables that were estimated from these signals are: 
